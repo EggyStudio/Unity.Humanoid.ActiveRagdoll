@@ -16,7 +16,7 @@ Install the Unity Essentials entry package via Unity's Package Manager, then ins
 - Add the entry package (via Git URL)
   - Window → Package Manager
   - "+" → "Add package from git URL…"
-  - Paste: `https://github.com/CanTalat-Yakan/UnityEssentials.git`
+  - Paste: `https://github.com/EggyStudio/UnityEssentials.git`
 
 - Install or update Unity Essentials packages
   - Tools → Install & Update UnityEssentials
